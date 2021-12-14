@@ -1,0 +1,62 @@
+第10回課題テンプレート
+
+# 第10回振り返りレポート
+
+## 1. GitHubアカウント
+
+| 氏名           | 学籍番号    | GitHubアカウント(登録メールアドレス) |
+| -------------- | ----------- | -------------------------------------- |
+| 愛工　大郎     | K00000      | AIT_TARO (k00000kk@aitech.ac.jp) |
+
+## 2. 作成した日記リポジトリのコミットログ
+
+ターミナルで、作成した日記リポジトリのローカルディレクトリにて、mainブランチをfetch/pullした後に、`$ git --no-pager log --graph`を実行し、結果を以下の`<rpe>〜</pre>`内に貼り付けます。
+
+<pre>
+
+* commit ad03f72c7e631969288fa0d66b6cec28e6bff24c (HEAD -> Uchiym)
+| Author: Uchiym <k20018kk@aitech.ac.jp>
+| Date:   Thu Dec 9 16:40:17 2021 +0900
+| 
+|     日記追加
+| 
+* commit af889f5bd0873cbbbaf585167ddec31a15e284c0 (origin/T.Kabura)
+| Author: Waowao531 <sao.wao76483484.silica1004@gmail.com>
+| Date:   Thu Dec 9 15:54:17 2021 +0900
+| 
+|     Update AbstractDiary.py
+| 
+* commit 4e3e37e7985d12d1cdc3e8f7a01f2496062d910e
+| Author: Uchiym <k20018kk@aitech.ac.jp>
+| Date:   Thu Dec 9 15:42:35 2021 +0900
+| 
+|     main追加
+| 
+* commit 32c63da496d4190a599c41461a3f77f1888f7aca (origin/Noda_Dairy_edit)
+| Author: Uchiym <k20018kk@aitech.ac.jp>
+| Date:   Thu Dec 9 15:38:28 2021 +0900
+| 
+|     日記追加
+| 
+* commit 93a053f7cd98eb02de7149fa0b44132c4df2e250
+  Author: Uchiym <95839110+Uchiym@users.noreply.github.com>
+  Date:   Thu Dec 9 15:27:52 2021 +0900
+  
+      Initial commit
+
+</pre>
+
+
+## 3. Git及びGitHubに関する調査
+
+以下の各項目について、インターネットや書籍を利用し調べ、自分なりの言葉で説明をしてください。(参考文献等あればそれも記載すること)
+
+### 3-1. バージョン管理システムを利用することによるメリットはなにか
+
+
+
+### 3-2. Gitにおけるキーワード「clone」「commit」「push」「branch」「fetch」「pull」「merge」「rebase」についてそれぞれ何をするものか (他者に説明できるよう、わかりやすく簡潔な文章で表すこと)
+
+
+
+### 3-3. プロジェクト進行に、GitHub Flowを採用することで解決できるチーム開発での問題はなにか (実際にGitHub Flowで作業する手順も説明する)
